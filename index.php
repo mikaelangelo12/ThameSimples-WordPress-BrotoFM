@@ -25,35 +25,30 @@
 <div>
 <main class="container">
     <div class="destaque ">
-
-    <article class="iten-post dest float-start">
-        <figure class="figure01">
-                <a href="https://www.tecmundo.com.br/voxel/220543-novo-switch-chega-brasil-2022-switch-lite-em-setembro-r-1899.htm" title="Ir para: Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899" class="tec--voxel-main__item__thumb__link"> 
-                <img src="<?php bloginfo('template_url'); ?>/assets/img/post/02.jpg" class="d-block w-100" class="figure-thumb" alt="...">
-                 </a></figure><div class="tec--voxel-main__item__info">
-                     <div class="tec--voxel-main__item__subtitle">Switch no Brasil</div>
-                 <h3 class="tec--voxel-main__item__title">
-                 <a class="tec--voxel-main__item__title__link" href="https://www.tecmundo.com.br/voxel/220543-novo-switch-chega-brasil-2022-switch-lite-em-setembro-r-1899.htm" title="Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899"> Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899 </a></h3></div>
-    </article>
-    <article class="iten-post dest float-start">
-        <figure class="tec--voxel-main__item__thumb">
-                <a href="https://www.tecmundo.com.br/voxel/220543-novo-switch-chega-brasil-2022-switch-lite-em-setembro-r-1899.htm" title="Ir para: Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899" class="tec--voxel-main__item__thumb__link"> 
-                <img src="<?php bloginfo('template_url'); ?>/assets/img/post/02.jpg" class="d-block w-100" alt="...">
-                 </a></figure><div class="tec--voxel-main__item__info"><div class="tec--voxel-main__item__subtitle">Switch no Brasil</div>
-                 <h3 class="tec--voxel-main__item__title">
-                 <a class="tec--voxel-main__item__title__link" href="https://www.tecmundo.com.br/voxel/220543-novo-switch-chega-brasil-2022-switch-lite-em-setembro-r-1899.htm" title="Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899"> Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899 </a></h3></div>
-    </article>
-    <article class="iten-post dest float-start">
-        <figure class="tec--voxel-main__item__thumb">
-                <a href="https://www.tecmundo.com.br/voxel/220543-novo-switch-chega-brasil-2022-switch-lite-em-setembro-r-1899.htm" title="Ir para: Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899" class="tec--voxel-main__item__thumb__link"> 
-                <img src="<?php bloginfo('template_url'); ?>/assets/img/post/02.jpg" class="d-block w-100" alt="...">
-                 </a></figure><div class="tec--voxel-main__item__info"><div class="tec--voxel-main__item__subtitle">Switch no Brasil</div>
-                 <h3 class="tec--voxel-main__item__title">
-                 <a class="tec--voxel-main__item__title__link" href="https://www.tecmundo.com.br/voxel/220543-novo-switch-chega-brasil-2022-switch-lite-em-setembro-r-1899.htm" title="Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899"> Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899 </a></h3></div>
-    </article>
-
-
-
+        <div class="destaqueTop">
+            <article class="iten-post dest float-start">
+                <figure class="figure-thumb">
+                        <a href="https://www.tecmundo.com.br/voxel/220543-novo-switch-chega-brasil-2022-switch-lite-em-setembro-r-1899.htm" title="Ir para: Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899" class="figure-thumb"> 
+                        <img src="<?php bloginfo('template_url'); ?>/assets/img/post/02.jpg" class="d-block w-100% img-figure" alt="...">
+                        </a>
+                </figure>
+                <div class="bg-text-figure">
+                        <div class="tag-destaque">Switch no Brasil</div>
+                        <h3 class="title-destaque ">
+                        <a class="title-destaque-link"  href="https://www.tecmundo.com.br/voxel/220543-novo-switch-chega-brasil-2022-switch-lite-em-setembro-r-1899.htm" title="Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899"> Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899 </a></h3></div>
+            </article>
+            <article class="iten-post dest float-end ">
+                <figure class="figure-thumb">
+                        <a href="https://www.tecmundo.com.br/voxel/220543-novo-switch-chega-brasil-2022-switch-lite-em-setembro-r-1899.htm" title="Ir para: Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899" class="figure-thumb"> 
+                        <img src="<?php bloginfo('template_url'); ?>/assets/img/post/post01.jpg" class="d-block w-100% img-figure" alt="...">
+                        </a>
+                </figure>
+                        <div class="bg-text-figure">
+                        <div class="tag-destaque">Switch no Brasil</div>
+                        <h3 class="title-destaque ">
+                        <a class="title-destaque-link" href="https://www.tecmundo.com.br/voxel/220543-novo-switch-chega-brasil-2022-switch-lite-em-setembro-r-1899.htm" title="Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899"> Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899 </a></h3></div>
+            </article>
+        </div>
     </div>
 </main>
 <?php
