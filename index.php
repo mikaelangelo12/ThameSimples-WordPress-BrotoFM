@@ -140,6 +140,73 @@
             </article>
         </div>
     </div>
+    <div class="news-broto">  
+        <article class="news-medium">
+            <figure class="newsThumb">
+                <a href="https://www.tecmundo.com.br/voxel/220510-lista-7-personagens-lgbtqia-games.htm" title="Ir para: Lista: 7 personagens LGBTQIA+ dos games" class="tec--card__thumb__link">
+            <img data-src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" width="164" height="118" alt="Imagem de: Lista: 7 personagens LGBTQIA+ dos games" class="news--card-thumb" src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" data-loaded="true"> </a>
+            </figure>
+            <div class="tec--card__info">
+                <h3 class="news-card-title">
+                <a class="news-card-title-link" href="https://www.tecmundo.com.br/voxel/220510-lista-7-personagens-lgbtqia-games.htm"> Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899 </a></h3>
+            <div class="news--timestamp news-timestamp-lg">
+            <div class="news-timestamp-item z--font-semibold">6/7/2021</div>
+            <div class="news-timestamp-item  z--min-w-none">
+            <div class="z--truncate z-flex-1">há 2 horas</div>
+            </div>
+            </div>
+            </div>
+        </article>
+        <article class="news-medium">
+            <figure class="newsThumb">
+                <a href="https://www.tecmundo.com.br/voxel/220510-lista-7-personagens-lgbtqia-games.htm" title="Ir para: Lista: 7 personagens LGBTQIA+ dos games" class="tec--card__thumb__link">
+            <img data-src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" width="164" height="118" alt="Imagem de: Lista: 7 personagens LGBTQIA+ dos games" class="news--card-thumb" src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" data-loaded="true"> </a>
+            </figure>
+            <div class="tec--card__info">
+                <h3 class="news-card-title">
+                <a class="news-card-title-link" href="https://www.tecmundo.com.br/voxel/220510-lista-7-personagens-lgbtqia-games.htm"> Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899 </a></h3>
+            <div class="news--timestamp news-timestamp-lg">
+            <div class="news-timestamp-item z--font-semibold">6/7/2021</div>
+            <div class="news-timestamp-item  z--min-w-none">
+            <div class="z--truncate z-flex-1">há 2 horas</div>
+            </div>
+            </div>
+            </div>
+        </article>
+        <article class="news-medium">
+            <figure class="newsThumb">
+                <a href="https://www.tecmundo.com.br/voxel/220510-lista-7-personagens-lgbtqia-games.htm" title="Ir para: Lista: 7 personagens LGBTQIA+ dos games" class="tec--card__thumb__link">
+            <img data-src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" width="164" height="118" alt="Imagem de: Lista: 7 personagens LGBTQIA+ dos games" class="news--card-thumb" src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" data-loaded="true"> </a>
+            </figure>
+            <div class="tec--card__info">
+                <h3 class="news-card-title">
+                <a class="news-card-title-link" href="https://www.tecmundo.com.br/voxel/220510-lista-7-personagens-lgbtqia-games.htm"> Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899 </a></h3>
+            <div class="news--timestamp news-timestamp-lg">
+            <div class="news-timestamp-item z--font-semibold">6/7/2021</div>
+            <div class="news-timestamp-item  z--min-w-none">
+            <div class="z--truncate z-flex-1">há 2 horas</div>
+            </div>
+            </div>
+            </div>
+        </article>
+        <article class="news-medium">
+            <figure class="newsThumb">
+                <a href="https://www.tecmundo.com.br/voxel/220510-lista-7-personagens-lgbtqia-games.htm" title="Ir para: Lista: 7 personagens LGBTQIA+ dos games" class="tec--card__thumb__link">
+            <img data-src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" width="164" height="118" alt="Imagem de: Lista: 7 personagens LGBTQIA+ dos games" class="news--card-thumb" src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" data-loaded="true"> </a>
+            </figure>
+            <div class="tec--card__info">
+                <h3 class="news-card-title">
+                <a class="news-card-title-link" href="https://www.tecmundo.com.br/voxel/220510-lista-7-personagens-lgbtqia-games.htm"> Novo Switch chega ao Brasil em 2022 e Switch Lite em setembro por R$ 1899 </a></h3>
+            <div class="news--timestamp news-timestamp-lg">
+            <div class="news-timestamp-item z--font-semibold">6/7/2021</div>
+            <div class="news-timestamp-item  z--min-w-none">
+            <div class="z--truncate z-flex-1">há 2 horas</div>
+            </div>
+            </div>
+            </div>
+        </article>
+       
+    </div>
 </main>
 <?php
 get_footer();
