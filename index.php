@@ -24,7 +24,85 @@
 </div>
 <div>
 <main class="container">
+ 
+<div class="center">
+  <div class="wrapper">
+    <div class="inner">
+      <div class="card">
+        <img src="https://colorlib.com/preview/theme/seogo/img/case_study/1.png">
+        <div class="content">
+          <h1>Manhã Broto</h1>
+          <h3>Locutor: José Roberto</h3>
+        </div>
+      </div>
+      <div class="card">
+        <img src="https://colorlib.com/preview/theme/seogo/img/case_study/2.png">
+        <div class="content">
+          <h1>Custom Website</h1>
+          <h3>UI/UX, Design</h3>
+        </div>
+      </div>
+      <div class="card">
+        <img src="https://colorlib.com/preview/theme/seogo/img/case_study/3.png">
+        <div class="content">
+          <h1>Digital Marketing</h1>
+          <h3>UI/UX, Design</h3>
+        </div>
+      </div>
+      <div class="card">
+        <img src="https://colorlib.com/preview/theme/seogo/img/case_study/1.png">
+        <div class="content">
+          <h1>Digital Marketing</h1>
+          <h3>UI/UX, Design</h3>
+        </div>
+      </div>
+      <div class="card">
+        <img src="https://colorlib.com/preview/theme/seogo/img/case_study/2.png">
+        <div class="content">
+          <h1>Digital Marketing</h1>
+          <h3>UI/UX, Design</h3>
+        </div>
+      </div>
+      <div class="card">
+        <img src="https://colorlib.com/preview/theme/seogo/img/case_study/3.png">
+        <div class="content">
+          <h1>Digital Marketing</h1>
+          <h3>UI/UX, Design</h3>
+        </div>
+      </div>
+            <div class="card">
+        <img src="https://colorlib.com/preview/theme/seogo/img/case_study/1.png">
+        <div class="content">
+          <h1>Digital Marketing</h1>
+          <h3>UI/UX, Design</h3>
+        </div>
+      </div>
+            <div class="card">
+        <img src="https://colorlib.com/preview/theme/seogo/img/case_study/2.png">
+        <div class="content">
+          <h1>Digital Marketing</h1>
+          <h3>UI/UX, Design</h3>
+        </div>
+      </div>
+            <div class="card">
+        <img src="https://colorlib.com/preview/theme/seogo/img/case_study/3.png">
+        <div class="content">
+          <h1>Digital Marketing</h1>
+          <h3>UI/UX, Design</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="map">
+    <button class="active first"></button>
+    <button class="second"></button>
+    <button class="third"></button>
+  </div>
+</div>
+
     <div class="destaque ">
+        Noticias Broto
         <div class="destaqueTop">
             <article class="iten-post dest float-start">
                 <figure class="figure-thumb">
