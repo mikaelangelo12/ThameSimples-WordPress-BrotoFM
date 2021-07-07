@@ -163,6 +163,13 @@
     align-self: flex-end;
 }
 
+.corpo-broto {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 410px;
+}
+
 .news-medium {
     background-color: #fff;
     border-radius: var(--radius);
@@ -174,7 +181,6 @@
 
 .news-broto {
     /*   background-color: tomato;*/
-    margin-top: 420px;
     width: 70%;
 }
 
@@ -255,4 +261,9 @@
 
 .z--min-w-none {
     min-width: 0;
+}
+
+.widget-broto {
+    width: 30%;
+    margin-left: 20px;
 }
