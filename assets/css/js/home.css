@@ -1,7 +1,18 @@
 #slide {
     border-radius: var(--radius);
     margin-top: 20px;
-    margin-bottom: 20px;
+}
+
+.title-home {
+    text-align: center;
+    margin-top: 20px;
+    display: flex;
+    margin-bottom: -10px;
+}
+
+.title-home-icon {
+    width: 20px;
+    margin-right: 10px;
 }
 
 .center {
@@ -134,7 +145,7 @@
 
 .title-destaque {
     color: #fff;
-    font-size: 36px;
+    font-size: 27px;
     font-weight: 700;
     letter-spacing: -.72px;
     line-height: 40px;
