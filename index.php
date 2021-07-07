@@ -214,23 +214,31 @@
             <i class="far fa-waveform"></i>
         </div>
         <hr/>
-            <div class="accordion" id="accordionExample">
-        <div class="accordion-item">
+           
+            <div class="accordion custon-maismais" id="accordionExample">
+        <div class="accordion-item ">
             <h2 class="accordion-header" id="headingOne">
-            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                01 - Gusttavo Lima - Café e Amor
+            <button class="accordion-button  asmaismais" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+            <img class="title-home-icon icon-custon" src="<?php bloginfo('template_url'); ?>/assets/img/icons/play.svg" class="d-block w-100" alt="...">
+            Gusttavo Lima - Café e Amor
             </button>
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-            <div class="accordion-body">
-                <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            <div class="accordion-body asmaismaisContainer">
+
+                <img class="thumb-maisMais" src="<?php bloginfo('template_url'); ?>/assets/img/asmaismais/GUSTTAVO_LIMA.jpg" class="d-block w-100" alt="...">
+               <div class="text-maisMais">
+                <h3>Gusttavo Lima</h3>
+                <p>Café e Amor</p>
+</div>
             </div>
             </div>
         </div>
         <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                Accordion Item #2
+            <button class="accordion-button collapsed  asmaismais" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+            <img class="title-home-icon icon-custon" src="<?php bloginfo('template_url'); ?>/assets/img/icons/play.svg" class="d-block w-100" alt="...">
+            Accordion Item #2
             </button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
@@ -239,10 +247,13 @@
             </div>
             </div>
         </div>
-        <div class="accordion-item">
+
+        
+        <div class="accordion-item ">
             <h2 class="accordion-header" id="headingThree">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                Accordion Item #3
+            <button class="accordion-button collapsed  asmaismais" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+            <img class="title-home-icon icon-custon" src="<?php bloginfo('template_url'); ?>/assets/img/icons/play.svg" class="d-block w-100" alt="...">
+            Accordion Item #3
             </button>
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
@@ -251,6 +262,46 @@
             </div>
             </div>
         </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="headingfour">
+            <button class="accordion-button collapsed  asmaismais" type="button" data-bs-toggle="collapse" data-bs-target="#collapsefour" aria-expanded="false" aria-controls="collapseThree">
+            <img class="title-home-icon icon-custon" src="<?php bloginfo('template_url'); ?>/assets/img/icons/play.svg" class="d-block w-100" alt="...">
+            Accordion Item #3
+            </button>
+            </h2>
+            <div id="collapsefour" class="accordion-collapse collapse" aria-labelledby="headingfour" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            </div>
+            </div>
+        </div>
+        <div class="accordion-item">
+            <h2 class="accordion-header " id="headingfive">
+            <button class="accordion-button collapsed  asmaismais" type="button" data-bs-toggle="collapse" data-bs-target="#collapsefive" aria-expanded="false" aria-controls="collapseThree">
+            <img class="title-home-icon icon-custon" src="<?php bloginfo('template_url'); ?>/assets/img/icons/play.svg" class="d-block w-100" alt="...">
+            Accordion Item #3
+            </button>
+            </h2>
+            <div id="collapsefive" class="accordion-collapse collapse" aria-labelledby="headingfive" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            </div>
+            </div>
+        </div>
+        <div class="accordion-item ">
+            <h2 class="accordion-header " id="headingsix">
+            <button class="accordion-button collapsed  asmaismais" type="button" data-bs-toggle="collapse" data-bs-target="#collapsesix" aria-expanded="false" aria-controls="collapseThree">
+            <img class="title-home-icon icon-custon" src="<?php bloginfo('template_url'); ?>/assets/img/icons/play.svg" class="d-block w-100" alt="...">
+            Accordion Item #3
+            </button>
+            </h2>
+            <div id="collapsesix" class="accordion-collapse collapse" aria-labelledby="headingsix" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+            </div>
+            </div>
+        </div>
+
         </div>
     </div>
 </div>
