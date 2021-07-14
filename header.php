@@ -9,7 +9,10 @@
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/js/home.css" type="text/css" media="screen" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <?php wp_head(); ?>
-
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" rel="stylesheet"> 
+    <link href="/your-path-to-fontawesome/css/fontawesome.css" rel="stylesheet">  <link href="/your-path-to-fontawesome/css/brands.css" rel="stylesheet"> 
+     <link href="/your-path-to-fontawesome/css/solid.css" rel="stylesheet">
+    
 </head>
 
 <body>
