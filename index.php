@@ -145,7 +145,7 @@
         <article class="news-medium">
             <figure class="newsThumb">
                 <a href="https://www.tecmundo.com.br/voxel/220510-lista-7-personagens-lgbtqia-games.htm" title="Ir para: Lista: 7 personagens LGBTQIA+ dos games" class="tec--card__thumb__link">
-            <img data-src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" width="164" height="118" alt="Imagem de: Lista: 7 personagens LGBTQIA+ dos games" class="news--card-thumb" src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" data-loaded="true"> </a>
+            <img data-src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" alt="Imagem de: Lista: 7 personagens LGBTQIA+ dos games" class="news--card-thumb" src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" data-loaded="true"> </a>
             </figure>
             <div class="tec--card__info">
                 <h3 class="news-card-title">
@@ -161,7 +161,7 @@
         <article class="news-medium">
             <figure class="newsThumb">
                 <a href="https://www.tecmundo.com.br/voxel/220510-lista-7-personagens-lgbtqia-games.htm" title="Ir para: Lista: 7 personagens LGBTQIA+ dos games" class="tec--card__thumb__link">
-            <img data-src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" width="164" height="118" alt="Imagem de: Lista: 7 personagens LGBTQIA+ dos games" class="news--card-thumb" src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" data-loaded="true"> </a>
+            <img data-src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" alt="Imagem de: Lista: 7 personagens LGBTQIA+ dos games" class="news--card-thumb" src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" data-loaded="true"> </a>
             </figure>
             <div class="tec--card__info">
                 <h3 class="news-card-title">
@@ -177,7 +177,7 @@
         <article class="news-medium">
             <figure class="newsThumb">
                 <a href="https://www.tecmundo.com.br/voxel/220510-lista-7-personagens-lgbtqia-games.htm" title="Ir para: Lista: 7 personagens LGBTQIA+ dos games" class="tec--card__thumb__link">
-            <img data-src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" width="164" height="118" alt="Imagem de: Lista: 7 personagens LGBTQIA+ dos games" class="news--card-thumb" src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" data-loaded="true"> </a>
+            <img data-src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both"  alt="Imagem de: Lista: 7 personagens LGBTQIA+ dos games" class="news--card-thumb" src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" data-loaded="true"> </a>
             </figure>
             <div class="tec--card__info">
                 <h3 class="news-card-title">
@@ -193,7 +193,7 @@
         <article class="news-medium">
             <figure class="newsThumb">
                 <a href="https://www.tecmundo.com.br/voxel/220510-lista-7-personagens-lgbtqia-games.htm" title="Ir para: Lista: 7 personagens LGBTQIA+ dos games" class="tec--card__thumb__link">
-            <img data-src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" width="164" height="118" alt="Imagem de: Lista: 7 personagens LGBTQIA+ dos games" class="news--card-thumb" src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" data-loaded="true"> </a>
+            <img data-src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" alt="Imagem de: Lista: 7 personagens LGBTQIA+ dos games" class="news--card-thumb" src="https://img.ibxk.com.br/2021/07/04/04203506256008.jpg?w=164&amp;h=118&amp;mode=crop&amp;scale=both" data-loaded="true"> </a>
             </figure>
             <div class="tec--card__info">
                 <h3 class="news-card-title">
@@ -214,95 +214,218 @@
             <i class="far fa-waveform"></i>
         </div>
         <hr/>
-           
-            <div class="accordion custon-maismais" id="accordionExample">
-        <div class="accordion-item ">
-            <h2 class="accordion-header" id="headingOne">
-            <button class="accordion-button  asmaismais" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-            <img class="title-home-icon icon-custon" src="<?php bloginfo('template_url'); ?>/assets/img/icons/play.svg" class="d-block w-100" alt="...">
-            Gusttavo Lima - Café e Amor
-            </button>
-            </h2>
-            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-            <div class="accordion-body asmaismaisContainer">
+   
+        <div class="player">
 
-                <img class="thumb-maisMais" src="<?php bloginfo('template_url'); ?>/assets/img/asmaismais/GUSTTAVO_LIMA.jpg" class="d-block w-100" alt="...">
-               <div class="text-maisMais">
-                <h3>Gusttavo Lima</h3>
-                <p>Café e Amor</p>
+<div class="player__header">
+
+  <div class="player__img player__img--absolute slider">
+
+    <button class="player__button player__button--absolute--nw playlist">
+
+      <img src="http://physical-authority.surge.sh/imgs/icon/playlist.svg" alt="playlist-icon">
+
+    </button>
+
+    <button class="player__button player__button--absolute--center play">
+
+      <img src="http://physical-authority.surge.sh/imgs/icon/play.svg" alt="play-icon">
+      <img src="http://physical-authority.surge.sh/imgs/icon/pause.svg" alt="pause-icon">
+
+    </button>
+
+    <div class="slider__content">
+
+      <img class="img slider__img" src="http://physical-authority.surge.sh/imgs/1.jpg" alt="cover">
+      <img class="img slider__img" src="http://physical-authority.surge.sh/imgs/2.jpg" alt="cover">
+      <img class="img slider__img" src="http://physical-authority.surge.sh/imgs/3.jpg" alt="cover">
+      <img class="img slider__img" src="http://physical-authority.surge.sh/imgs/4.jpg" alt="cover">
+      <img class="img slider__img" src="http://physical-authority.surge.sh/imgs/5.jpg" alt="cover">
+      <img class="img slider__img" src="http://physical-authority.surge.sh/imgs/6.jpg" alt="cover">
+      <img class="img slider__img" src="http://physical-authority.surge.sh/imgs/7.jpg" alt="cover">
+
+    </div>
+
+  </div>
+
+  <div class="player__controls">
+
+    <button class="player__button back">
+
+      <img class="img" src="http://physical-authority.surge.sh/imgs/icon/back.svg" alt="back-icon">
+
+    </button>
+    
+    <p class="player__context slider__context">
+
+      <strong class="slider__name"></strong>
+      <span class="player__title slider__title"></span>
+
+    </p>
+
+    <button class="player__button next">
+
+      <img class="img" src="http://physical-authority.surge.sh/imgs/icon/next.svg" alt="next-icon">
+
+    </button>
+
+    <div class="progres">
+
+      <div class="progres__filled"></div>
+
+    </div>
+
+  </div>
+
 </div>
-            </div>
-            </div>
-        </div>
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="headingTwo">
-            <button class="accordion-button collapsed  asmaismais" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-            <img class="title-home-icon icon-custon" src="<?php bloginfo('template_url'); ?>/assets/img/icons/play.svg" class="d-block w-100" alt="...">
-            Accordion Item #2
-            </button>
-            </h2>
-            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-            <div class="accordion-body">
-                <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-            </div>
-            </div>
-        </div>
 
+<ul class="player__playlist list">
+
+  <li class="player__song">
+
+    <img class="player__img img" src="http://physical-authority.surge.sh/imgs/1.jpg" alt="cover">
+
+    <p class="player__context">
+
+      <b class="player__song-name">no time</b>
+      <span class="flex">
+
+        <span class="player__title">lastlings</span>
+        <span class="player__song-time"></span>
+
+      </span>
+
+    </p>
+
+    <audio class="audio" src="http://physical-authority.surge.sh/music/1.mp3"></audio>
+
+  </li>
+
+  <li class="player__song">
+
+    <img class="player__img img" src="http://physical-authority.surge.sh/imgs/2.jpg" alt="cover">
+
+    <p class="player__context">
+
+      <b class="player__song-name">blinding lights</b>
+      <span class="flex">
+
+        <span class="player__title">the weeknd</span>
+        <span class="player__song-time"></span>
+
+      </span>
+      
+    </p>
+
+    <audio class="audio" src="http://physical-authority.surge.sh/music/2.mp3"></audio>
+
+  </li>
+
+  <li class="player__song">
+
+    <img class="player__img img" src="http://physical-authority.surge.sh/imgs/3.jpg" alt="cover">
+
+    <p class="player__context">
+
+      <b class="player__song-name">джованна</b>
+      <span class="flex">
+
+        <span class="player__title">enrasta</span>
+        <span class="player__song-time"></span>
+
+      </span>
         
-        <div class="accordion-item ">
-            <h2 class="accordion-header" id="headingThree">
-            <button class="accordion-button collapsed  asmaismais" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-            <img class="title-home-icon icon-custon" src="<?php bloginfo('template_url'); ?>/assets/img/icons/play.svg" class="d-block w-100" alt="...">
-            Accordion Item #3
-            </button>
-            </h2>
-            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-            <div class="accordion-body">
-                <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-            </div>
-            </div>
-        </div>
-        <div class="accordion-item">
-            <h2 class="accordion-header" id="headingfour">
-            <button class="accordion-button collapsed  asmaismais" type="button" data-bs-toggle="collapse" data-bs-target="#collapsefour" aria-expanded="false" aria-controls="collapseThree">
-            <img class="title-home-icon icon-custon" src="<?php bloginfo('template_url'); ?>/assets/img/icons/play.svg" class="d-block w-100" alt="...">
-            Accordion Item #3
-            </button>
-            </h2>
-            <div id="collapsefour" class="accordion-collapse collapse" aria-labelledby="headingfour" data-bs-parent="#accordionExample">
-            <div class="accordion-body">
-                <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-            </div>
-            </div>
-        </div>
-        <div class="accordion-item">
-            <h2 class="accordion-header " id="headingfive">
-            <button class="accordion-button collapsed  asmaismais" type="button" data-bs-toggle="collapse" data-bs-target="#collapsefive" aria-expanded="false" aria-controls="collapseThree">
-            <img class="title-home-icon icon-custon" src="<?php bloginfo('template_url'); ?>/assets/img/icons/play.svg" class="d-block w-100" alt="...">
-            Accordion Item #3
-            </button>
-            </h2>
-            <div id="collapsefive" class="accordion-collapse collapse" aria-labelledby="headingfive" data-bs-parent="#accordionExample">
-            <div class="accordion-body">
-                <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-            </div>
-            </div>
-        </div>
-        <div class="accordion-item ">
-            <h2 class="accordion-header " id="headingsix">
-            <button class="accordion-button collapsed  asmaismais" type="button" data-bs-toggle="collapse" data-bs-target="#collapsesix" aria-expanded="false" aria-controls="collapseThree">
-            <img class="title-home-icon icon-custon" src="<?php bloginfo('template_url'); ?>/assets/img/icons/play.svg" class="d-block w-100" alt="...">
-            Accordion Item #3
-            </button>
-            </h2>
-            <div id="collapsesix" class="accordion-collapse collapse" aria-labelledby="headingsix" data-bs-parent="#accordionExample">
-            <div class="accordion-body">
-                <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-            </div>
-            </div>
-        </div>
+    </p>
 
-        </div>
+    <audio class="audio" src="http://physical-authority.surge.sh/music/3.mp3"></audio>
+
+  </li>
+
+  <li class="player__song">
+
+    <img class="player__img img" src="http://physical-authority.surge.sh/imgs/4.jpg" alt="cover">
+
+    <p class="player__context">
+
+      <b class="player__song-name">a man</b>
+      <span class="flex">
+
+        <span class="player__title">travis scott</span>
+        <span class="player__song-time"></span>
+
+      </span>
+      
+    </p>
+
+    <audio class="audio" src="http://physical-authority.surge.sh/music/4.mp3"></audio>
+
+  </li>
+
+  <li class="player__song">
+
+    <img class="player__img img" src="http://physical-authority.surge.sh/imgs/5.jpg" alt="cover">
+
+    <p class="player__context ">
+
+      <b class="player__song-name">unforgetting</b>
+      <span class="flex">
+
+        <span class="player__title">zaxx</span>
+        <span class="player__song-time"></span>
+
+      </span>
+
+    </p>
+
+    <audio class="audio" src="http://physical-authority.surge.sh/music/5.mp3"></audio>
+
+  </li>
+
+  <li class="player__song">
+
+    <img class="player__img img" src="http://physical-authority.surge.sh/imgs/6.jpg" alt="cover">
+
+    <p class="player__context">
+
+      <b class="player__song-name">waharan</b>
+      <span class="flex">
+
+        <span class="player__title">Randall</span>
+        <span class="player__song-time"></span>
+
+      </span>
+
+    </p>
+
+    <audio class="audio" src="http://physical-authority.surge.sh/music/6.mp3"></audio>
+
+  </li>
+
+  <li class="player__song">
+
+    <img class="player__img img" src="http://physical-authority.surge.sh/imgs/7.jpg" alt="cover">
+
+    <p class="player__context ">
+
+      <b class="player__song-name">starlight feat mr gabriel <span class="uppercase">4am</span> remix</b>
+      <span class="flex">
+
+        <span class="player__title">jai wolf</span>
+        <span class="player__song-time"></span>
+
+      </span>
+
+    </p>
+
+    <audio class="audio" src="http://physical-authority.surge.sh/music/7.mp3"></audio>
+
+  </li>
+
+</ul>
+
+</div>
+
+       
     </div>
 </div>
 </main>

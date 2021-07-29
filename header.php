@@ -7,6 +7,8 @@
     <title>BROTO FM | SINTONIZADA EM VOCÊ | 104,9</title>
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/style.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/js/home.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/js/maisMais.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/js/rodape.css" type="text/css" media="screen" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <?php wp_head(); ?>
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400&display=swap" rel="stylesheet"> 
@@ -34,9 +36,7 @@
             </div>
             
 </div>
-<div class="player">
-                 <img class="play" src="<?php bloginfo('template_url'); ?>/assets/img/play.png" all="Broto Fm"/>
-            </div>
+
         </div>
         
        <div class="redeSociais p-2 .justify-content-lg-end align-items-center">

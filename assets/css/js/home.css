@@ -175,7 +175,6 @@
     border-radius: var(--radius);
     border: 1px solid #eceeef;
     margin-bottom: 20px;
-    padding: 20px;
     display: flex;
 }
 
@@ -195,7 +194,7 @@
 }
 
 .news--card-thumb {
-    border-radius: var(--radius);
+    border-radius:  20px 0 0 20px;
 }
 
 .news-card-title {
@@ -270,7 +269,7 @@
 
 .asmaismais {
     background-color: var(--primaria)!important;
-    color: white!important;
+    color: var(--Segunda)!important;
 }
 
 .thumb-maisMais {
@@ -296,6 +295,7 @@
     border-radius: var(--radius)!important;
 }
 
-..accordion-item:first-of-type .accordion-button {
+.accordion-item:first-of-type .accordion-button {
     border-radius: 0 20px 0!important;
 }
+

@@ -1,105 +1,105 @@
-                          :root {
-                             --primaria: #557C05;
-                             --Segunda: #F8E6A6;
-                             --radius: 20px;
-                         }
-                         
-                         body {
-                             background-color: #F7F7F7!important;
-                         }
-                         
-                         .cabecalho {
-                             display: flex;
-                         }
-                         
-                         .cabecalho img {
-                             width: 360px;
-                         }
-                         
-                         .container {
-                             width: 940px;
-                             margin: 0 auto;
-                         }
-                         
-                         .bg {
-                             background-color: var(--primaria);
-                         }
-                         
-                         .redeSociais {
-                             display: flex;
-                         }
-                         
-                         .redeSociais img {
-                             width: 50px;
-                             display: inline;
-                         }
-                         
-                         .rd-item {
-                             margin-left: 10px;
-                         }
-                         
-                         .card-player {
-                             display: flex;
-                             margin: 0 auto;
-                         }
-                         
-                         .card-player img {
-                             width: 120px;
-                             height: 120px;
-                             border: 3px solid;
-                             border-radius: 100%;
-                             border-color: var(--primaria);
-                         }
-                         
-                         .text-card-player {
-                             margin-left: 20px;
-                             margin-top: 10px;
-                             display: inline-block;
-                         }
-                         
-                         .prog_textß {
-                             font-size: 2em;
-                             color: var(--primaria);
-                         }
-                         
-                         .prog_text {
-                             color: var(--primaria);
-                             font-weight: 700;
-                             margin-bottom: -6px;
-                         }
-                         
-                         .text-card-player h3 {}
-                         
-                         .navbar-nav li {
-                             color: #fff!important;
-                         }
-                         
-                         .aovivo-cab p {
-                             margin-bottom: -7px;
-                         }
-                         
-                         .music {
-                             font-weight: 700;
-                         }
-                         
-                         .play {
-                             width: 120px;
-                             height: 120px;
-                             border: 3px solid;
-                             border-radius: 100%;
-                             float: right;
-                             border-color: var(--primaria);
-                         }
-                         
-                         figure {
-                             display: block;
-                             margin-block-start: 1em;
-                             margin-block-end: 1em;
-                             margin-inline-start: 40px;
-                             margin-inline-end: 40px;
-                         }
-                         
-                         .navbar-light .navbar-nav .nav-link {
-                             color: var(--Segunda)!important;
-                             font-weight: bold;
-                         }
+                           :root {
+                              --primaria: #557C05;
+                              --Segunda: #F8E6A6;
+                              --radius: 20px;
+                          }
+                          
+                          body {
+                              background-color: #F7F7F7!important;
+                          }
+                          
+                          .cabecalho {
+                              display: flex;
+                          }
+                          
+                          .cabecalho img {
+                              width: 360px;
+                          }
+                          
+                          .container {
+                              width: 940px;
+                              margin: 0 auto;
+                          }
+                          
+                          .bg {
+                              background-color: var(--primaria);
+                          }
+                          
+                          .redeSociais {
+                              display: flex;
+                          }
+                          
+                          .redeSociais img {
+                              width: 50px;
+                              display: inline;
+                          }
+                          
+                          .rd-item {
+                              margin-left: 10px;
+                          }
+                          
+                          .card-player {
+                              display: flex;
+                              margin: 0 auto;
+                          }
+                          
+                          .card-player img {
+                              width: 120px;
+                              height: 120px;
+                              border: 3px solid;
+                              border-radius: 100%;
+                              border-color: var(--primaria);
+                          }
+                          
+                          .text-card-player {
+                              margin-left: 20px;
+                              margin-top: 10px;
+                              display: inline-block;
+                          }
+                          
+                          .prog_textß {
+                              font-size: 2em;
+                              color: var(--primaria);
+                          }
+                          
+                          .prog_text {
+                              color: var(--primaria);
+                              font-weight: 700;
+                              margin-bottom: -6px;
+                          }
+                          
+                          .text-card-player h3 {}
+                          
+                          .navbar-nav li {
+                              color: #fff!important;
+                          }
+                          
+                          .aovivo-cab p {
+                              margin-bottom: -7px;
+                          }
+                          
+                          .music {
+                              font-weight: 700;
+                          }
+                          
+                          .play {
+                              width: 120px;
+                              height: 120px;
+                              border: 3px solid;
+                              border-radius: 100%;
+                              float: right;
+                              border-color: var(--primaria);
+                          }
+                          
+                          figure {
+                              display: block;
+                              margin-block-start: 1em;
+                              margin-block-end: 1em;
+                              margin-inline-start: 40px;
+                              margin-inline-end: 40px;
+                          }
+                          
+                          .navbar-light .navbar-nav .nav-link {
+                              color: var(--Segunda)!important;
+                              font-weight: bold;
+                          }
