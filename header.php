@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BROTO FM | SINTONIZADA EM VOCÊ | 104,9</title>
+
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/style.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/js/home.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/assets/css/js/maisMais.css" type="text/css" media="screen" />
@@ -60,7 +61,7 @@
                     <a class="nav-link" href="#">Sobre a Broto</a>
                     </li>
                     <li class="nav-item">
-                    <a class="nav-link" href="#">Programação</a>
+                    <a class="nav-link" href="<?php bloginfo('template_url'); ?>/aovivo.php">Programação</a>
                     </li>
                     <li class="nav-item">
                     <a class="nav-link" href="#">PodCasts</a>
